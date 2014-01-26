@@ -1,0 +1,36 @@
+Domain: dGleasonLambert.com
+Logo
+Facebook Integration
+"Cover Page"
+Purpose
+Blog
+	Blog filter by source (GleasonsConstruction.com, Greater Boston Entry Developers, DGleasonLambert, ..)
+User database
+Highlighted Projects connected to github
+SEO Functionality
+Sitemap in XML format for search engines
+Sitemap
+Privacy Policy
+Terms and Conditions
+Custom Error Page
+Cross Browser Support
+Site analytics to judge usage
+CMS for making small changes to content
+Donations
+YouTube Channel
+Favicon
+Pages
+	Home page(blog) Wordpress style
+	Portfolio
+	Contact
+	Resume
+	About me
+	Hire me
+	Photos
+	Wish list
+		Security
+			Me - can add items to the list and see the master list
+			Gifters - Can see the list, but can also see which gifts are still available 
+	Activity
+
+Pull rss feeds from different networks (github, linkedIn, facebook, etc)
