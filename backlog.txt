@@ -1,30 +1,13 @@
-Domain: dGleasonLambert.com
-Logo
-Facebook Integration
-"Cover Page"
-Purpose
-Blog
-	Blog filter by source (GleasonsConstruction.com, Greater Boston Entry Developers, DGleasonLambert, ..)
-User database
-Highlighted Projects connected to github
-SEO Functionality
-Sitemap in XML format for search engines
-Sitemap
-Privacy Policy
-Terms and Conditions
-Custom Error Page
-Cross Browser Support
-Site analytics to judge usage
-CMS for making small changes to content
-Donations
-YouTube Channel
-Favicon
 Pages
-	Home page(blog) Wordpress style
+	Home page
+	Wordpress blog
+		GleasonsConstruction.com, 
+		Greater Boston Entry Developers, 
+		DGleasonLambert, 
 	Portfolio
 	Contact
-	Resume
 	About me
+		Resume
 	Hire me
 	Photos
 	Wish list
@@ -32,5 +15,28 @@ Pages
 			Me - can add items to the list and see the master list
 			Gifters - Can see the list, but can also see which gifts are still available 
 	Activity
+	Privacy Policy
+	Terms and Conditions
+	
+Domain: dGleasonLambert.com
+Logo
+Facebook Integration
+"Cover Page"
+Purpose
+User database
+Highlighted Projects connected to github
+SEO Functionality
+Sitemap in XML format for search engines
+Sitemap
+
+Custom Error Page
+Cross Browser Support
+Donations
+YouTube Channel
+
+
+
 
 Pull rss feeds from different networks (github, linkedIn, facebook, etc)
+Favicon
+Site analytics to judge usage
