@@ -7,22 +7,24 @@ Pages
 	Portfolio
 	Contact
 	About me
-		Resume
+		Purpose
 	Hire me
+		Cover Letter
+		Resume
 	Photos
 	Wish list
 		Security
 			Me - can add items to the list and see the master list
 			Gifters - Can see the list, but can also see which gifts are still available 
-	Activity
+	Activity Sidebar
+		Facebook
+		Instagram
+		Foursquare
 	Privacy Policy
 	Terms and Conditions
 	
-Domain: dGleasonLambert.com
 Logo
-Facebook Integration
-"Cover Page"
-Purpose
+Search
 User database
 Highlighted Projects connected to github
 SEO Functionality
