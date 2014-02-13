@@ -1,27 +1,21 @@
-Pages
-	Home page
-	Wordpress blog
-		GleasonsConstruction.com, 
-		Greater Boston Entry Developers, 
-		DGleasonLambert, 
-	Portfolio
-	Contact
-	About me
-		Purpose
-	Hire me
-		Cover Letter
-		Resume
-	Photos
-	Wish list
-		Security
-			Me - can add items to the list and see the master list
-			Gifters - Can see the list, but can also see which gifts are still available 
+Home Page
+Contact Page
+About me Page
+
+Wordpress blog
+Portfolio Page
+Purpose Page
+Hire me Page
+Cover Letter Page
+Resume Page
+Photos Page
+Wish list Page
 	Activity Sidebar
 		Facebook
 		Instagram
 		Foursquare
-	Privacy Policy
-	Terms and Conditions
+Privacy Policy Page
+Terms and Conditions Page
 	
 Logo
 Search
@@ -30,6 +24,10 @@ Highlighted Projects connected to github
 SEO Functionality
 Sitemap in XML format for search engines
 Sitemap
+
+GleasonsConstruction.com blog
+Greater Boston Entry Developers blog
+DGleasonLambert blog
 
 Custom Error Page
 Cross Browser Support
